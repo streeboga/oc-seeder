@@ -1,0 +1,10 @@
+plugin:
+    name: 'hookprod.seeder::lang.plugin.name'
+    description: 'hookprod.seeder::lang.plugin.description'
+    author: HookProd
+    icon: oc-icon-compress
+    homepage: ''
+permissions:
+    'seeder.*':
+        tab: 'hookprod.seeder::lang.settings.seeds'
+        label: 'hookprod.seeder::lang.settings.seeds'
