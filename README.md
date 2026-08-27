@@ -1,4 +1,6 @@
 # oc-seeder
+
+> Открытый проект [EQ Platform](https://eq.team) — [страница проекта](https://eq.team/open-source/oss-oc-seeder/)
 После установки плагина нужно выбрать модели, которые нужно сохранить: 
 ```
 /backend/hookprod/seeder/models
